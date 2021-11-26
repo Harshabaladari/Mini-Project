@@ -1,0 +1,9 @@
+pip install wordsegment
+pip install networkx
+pip install https://download.pytorch.org/whl/cpu/torch-0.4.1-cp36-cp36m-win_amd64.whl
+pip install https://download.pytorch.org/whl/torchvision-0.1.6-py3-none-any.whl
+pip install torchvision
+
+
+pip install Cython
+pip install git+https://github.com/philferriere/cocoapi.git#egg=pycocotools^&subdirectory=PythonAPI
